@@ -1,0 +1,1 @@
+## Flujo de una actividad {#flujo-de-una-actividad}

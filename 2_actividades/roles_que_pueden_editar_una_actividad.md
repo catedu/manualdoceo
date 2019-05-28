@@ -1,0 +1,1 @@
+## Roles que pueden editar una actividad {#roles-que-pueden-editar-una-actividad}
