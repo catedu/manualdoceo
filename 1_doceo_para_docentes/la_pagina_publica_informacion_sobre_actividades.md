@@ -1,1 +1,8 @@
 ## La página pública: Información sobre actividades. {#la-p-gina-p-blica-informaci-n-sobre-actividades}
+
+
+
+![](/assets/doceopaginapublica.png)
+
+
+
