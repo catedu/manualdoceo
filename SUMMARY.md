@@ -4,7 +4,7 @@
 * [0 Doceo 3.0. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
   * [¿Qué es?](0_doceo_30_gestion_de_la_formacion_del_profesorado/que_es.md)
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
-  * [Modificando mi perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
+  * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
   * [Roles en la formación](0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion.md)
 * [1 Doceo para docentes](1_doceo_para_docentes/README.md)
   * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
@@ -26,3 +26,4 @@
   * [Centros y asesorías](4_gestion/centros_y_asesorias.md)
   * [Ponentes](4_gestion/ponentes.md)
 * [5 Informes](5_informes.md)
+
