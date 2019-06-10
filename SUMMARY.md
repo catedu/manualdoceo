@@ -9,9 +9,7 @@
 * [1 Doceo para docentes](1_doceo_para_docentes/README.md)
   * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
   * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
-<!---  
   * [Proponer mejoras y participar en la formación.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
--->
 * [2 Actividades](2_actividades/README.md)
   * [Roles que pueden editar una actividad](2_actividades/roles_que_pueden_editar_una_actividad.md)
   * [Nueva actividad](2_actividades/nueva_actividad.md)
