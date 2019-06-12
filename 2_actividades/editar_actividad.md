@@ -1,4 +1,25 @@
-## Editar actividad {#editar-actividad}
+# Editar actividad {#editar-actividad}
+
+Puedes cambiar los diferentes elementos de los datos de la actividad de forma intuitiva en la pantalla "Editar actividad"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Gestión de participantes: Inscripciones y admisión. {#gesti-n-de-participantes-inscripciones-y-admisi-n}
 

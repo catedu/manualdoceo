@@ -12,6 +12,8 @@ En esa página aparece un botón de inscripción si la actividad está en period
 
 ![](/assets/inscripcion2.png)
 
+**Es posible que no aparezca este botón de inscripción pese a estar en periodo de inscripción si estás viendo la actividad sin haber entrado con tu usuario.**
+
 Pulsando ese botón se accede a la pantalla "Inscribirse en Actividad" donde se puede finalizar la inscripción.
 
 ![](/assets/inscripcion3.png)
