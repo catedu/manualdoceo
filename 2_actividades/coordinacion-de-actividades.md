@@ -15,3 +15,4 @@ Cabe destacar que aquí aparecen dos nuevos iconos en la columna derecha, uno pa
 ![](/assets/Selección_723.png)
 
 Pulsando sobre _Consultar actividad_ en una actividad que uno coordina, puede accederse a ese menú.
+
