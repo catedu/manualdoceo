@@ -22,3 +22,4 @@ Tras pulsar "Inscribirse" debe salir el siguiente mensaje:
 
 ![](/assets/inscripcion4.png)
 
+Por último, los usuarios también pueden ser inscritos por el coordinador de actividad a partir de sus NIF/NIE y otros datos.

@@ -1,7 +1,7 @@
 # Summary
 
 * [Manual de Doceo 3.0](README.md)
-* [0 Doceo 3.0. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
+* [Doceo 3.0. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
   * [¿Qué es?](0_doceo_30_gestion_de_la_formacion_del_profesorado/que_es.md)
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
   * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
@@ -16,6 +16,7 @@
     * [Consultar actividad](2_actividades/consultar-actividad.md)
     * [Editar actividad](2_actividades/editar_actividad.md)
     * [Gestión de participantes: Inscripción y admisión.](2_actividades/editar_actividad/gestion-de-participantes-inscripcion-y-admision.md)
+    * [Sesiones](2_actividades/sesiones.md)
   * [Nueva actividad](2_actividades/nueva_actividad.md)
   * [Listados de actividades](2_actividades/listados_de_actividades.md)
   * [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)

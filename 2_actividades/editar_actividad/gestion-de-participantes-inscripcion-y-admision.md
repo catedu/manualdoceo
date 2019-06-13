@@ -16,7 +16,7 @@ Si crees necesario que el usuario que se inscribe aporte documentación que prue
 
 ![](/assets/Peek 12-06-2019 13-12.gif)
 
-Si acudimos ahora a inscribirnos en la actividad vemos lo siguiente:
+Cuando otro usuario acceda a inscribirse en la actividad vemos lo siguiente:
 
 ![](/assets/Peek 12-06-2019 13-20.gif)
 
@@ -32,4 +32,16 @@ Una vez ahí te aparecerá una lista con los inscritos en la actividad.
 
 ![](/assets/Peek 12-06-2019 13-47.gif)
 
-En esa pantalla, se puede seleccionar _**Inscripción manual**_ y el coordinador de actividad puede así inscribir de forma manual participantes
+En esa pantalla, se puede seleccionar _**Inscripción manual**_ y el coordinador de actividad puede así inscribir de forma manual participantes:
+
+![](/assets/Selección_729.png)
+
+Cabe destacar que si el NIF introducido ya corresponde a un usuario de paddoc, no es necesario llenar el resto de datos pues DOCEO los rellenará automáticamente. 
+
+### Admisión.
+
+Para gestionar la admisión debemos entrar en la página **_Admisión_** del menú lateral.
+
+Una vez ahí, es posible editar la participación, la admisión de los inscritos y añadir una causa de no admisiónde entre varias posibles:
+
+![](/assets/Peek 13-06-2019 17-41.gif)

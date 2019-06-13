@@ -9,7 +9,7 @@ Ahí podemos observar no solo la ficha de esa actividad con diferentes botones s
 
 ![](/assets/Selección_724.png)
 
-En esta pantalla aparece junto al botón de _Cambiar estado_ (Ver Flujo de una actividad) el botón _Chequear_ que permite comprobar que la coherencia entre los elementos de la actividad.
+En esta pantalla aparece junto al botón de _Cambiar estado_ (Ver Flujo de una actividad) el botón **_Chequear_** que permite comprobar que la coherencia entre los elementos de la actividad.
 
 ![](/assets/Peek 12-06-2019 11-30.gif)
 
