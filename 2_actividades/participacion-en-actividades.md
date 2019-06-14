@@ -1,5 +1,11 @@
 # Participación en actividades.
 
+Las actividades formativas aparecen en la pestaña "Actividades".
+
+Una vez en esas pestañas puede accederse tanto a las actividades en las que se participa "Participo" o bien las actividades coordinadas "Coordino".
+
+![](/assets/Selección_716b.png)
+
 En _Actividades>Participo_ puedes ver el listado de actividades formativas en las que estás inscrito este curso escolar. Puedes ordenarlas por Título, modalidad, etc.
 
 ![](/assets/Selección_718.png)

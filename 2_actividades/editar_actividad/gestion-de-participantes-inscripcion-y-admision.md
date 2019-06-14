@@ -16,7 +16,7 @@ Si crees necesario que el usuario que se inscribe aporte documentación que prue
 
 ![](/assets/Peek 12-06-2019 13-12.gif)
 
-Cuando otro usuario acceda a inscribirse en la actividad vemos lo siguiente:
+Cuando otro usuario acceda a inscribirse en la actividad verá lo siguiente:
 
 ![](/assets/Peek 12-06-2019 13-20.gif)
 
