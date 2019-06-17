@@ -1,1 +1,1 @@
-## Proponer mejoras y participar en la formación. {#proponer-mejoras-y-participar-en-la-formaci-n}
+## Propuesta de mejoras {#proponer-mejoras-y-participar-en-la-formaci-n}

@@ -10,7 +10,7 @@
   * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
   * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
   * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
-  * [Proponer mejoras y participar en la formación.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
+  * [Proponer mejoras.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 * [Coordinación de actividades.](2_actividades/README.md)
   * [Consultar actividad](2_actividades/consultar-actividad.md)
   * [Editar actividad](2_actividades/editar_actividad.md)
@@ -22,5 +22,8 @@
 * [Coordinación de la formación. COFOs y Dirección..](3_plan_de_formacion/README.md)
   * [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
   * [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
+  * [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
+  * [Valoración](3_plan_de_formacion/valoracion.md)
+  * Actividades no gestionadas por Doceo
 * [5 Informes](5_informes.md)
 
