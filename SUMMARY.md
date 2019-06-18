@@ -61,5 +61,11 @@
     * [Editar actividad](actividades/coordinacion-de-actividades/editar-actividad.md)
     * [Gestión de participantes: Inscripción y admisión.](actividades/coordinacion-de-actividades/gestion-de-participantes-inscripcion-y-admision.md)
     * [Sesiones](actividades/coordinacion-de-actividades/sesiones.md)
+    * [Repositorios](actividades/coordinacion-de-actividades/repositorios.md)
+    * [Comentarios](actividades/coordinacion-de-actividades/comentarios.md)
+    * [Ponencias](actividades/coordinacion-de-actividades/ponencias.md)
+    * Certificación
+    * Intercentros
+    * G. Económica
 * [5 Informes](5_informes.md)
 
