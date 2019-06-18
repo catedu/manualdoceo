@@ -38,4 +38,4 @@ Marcar los asistentes se hace pulsando en el icono correspondiente y rellenando 
 
 El acta debe rellenarse en el hueco correspondiente y finalmente pulsar _Guardar_
 
-### Un coordinador de actividad dispone de 7 días para rellenar la asistencia y las actas.
+### La asesoría puede rellenar la asistencia y las actas en cualquier momento, no tiene el plazo de 7 días. Esto es particularmente importante pues Doceo no permite finalizar una actividad con un acta o una asistencia sin llenar.

@@ -56,6 +56,10 @@
   * [Buscar](actividades/buscar.md)
   * [Actividades asesoradas](actividades/actividades-asesoradas.md)
   * [Coordinación de actividades. Asesor.](actividades/coordinacion-de-actividades.md)
-    * Coordinación de actividades.
+    * [Coordinación de actividades.](actividades/coordinacion-de-actividades/coordinacion-de-actividades.md)
+    * [Consultar actividad](actividades/coordinacion-de-actividades/consultar-actividad.md)
+    * [Editar actividad](actividades/coordinacion-de-actividades/editar-actividad.md)
+    * [Gestión de participantes: Inscripción y admisión.](actividades/coordinacion-de-actividades/gestion-de-participantes-inscripcion-y-admision.md)
+    * [Sesiones](actividades/coordinacion-de-actividades/sesiones.md)
 * [5 Informes](5_informes.md)
 
