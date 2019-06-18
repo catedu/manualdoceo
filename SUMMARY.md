@@ -51,5 +51,8 @@
 
 ## Asesorías
 
+* [Actividades.](actividades.md)
+  * [Actividades asesoradas](actividades/actividades-asesoradas.md)
+  * [Coordinación de actividades.](actividades/coordinacion-de-actividades.md)
 * [5 Informes](5_informes.md)
 
