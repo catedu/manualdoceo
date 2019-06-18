@@ -6,8 +6,7 @@
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
   * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
   * [Roles en la formación](0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion.md)
-
-
+---
 * Doceo para Docentes y otros miembros de la Comunidad Educativa.
   * [Participación en actividades: Información, inscripción y consulta.](1_doceo_para_docentes/README.md)
     * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
@@ -27,7 +26,7 @@
     * [Repositorio](2_actividades/repositorio.md)
     * [Comentarios](2_actividades/comentarios.md)
     * [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)
-
+---
 * [Coordinación de la formación. COFOs y Dirección..](3_plan_de_formacion/README.md)
   * [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
   * [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
