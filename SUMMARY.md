@@ -11,16 +11,16 @@
 
 ## Doceo para Docentes y otros miembros de la Comunidad Educativa.
 
-* [Participación en actividades: Información, inscripción y consulta.](1_doceo_para_docentes/README.md)
-  * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
-  * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
-  * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
-  * [Proponer mejoras.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 * [Plan de Formación](1_doceo_para_docentes/plan-de-formacion.md)
   * [Actividades del Plan](1_doceo_para_docentes/plan-de-formacion/actividades-del-plan.md)
   * [Proyecto de Formación de Centro](1_doceo_para_docentes/plan-de-formacion/proyecto-de-formacion-de-centro.md)
   * [Valoración](1_doceo_para_docentes/plan-de-formacion/valoracion.md)
   * [Actividades no getionadas por Doceo](1_doceo_para_docentes/plan-de-formacion/actividades-no-getionadas-por-doceo.md)
+* [Participación en actividades: Información, inscripción y consulta.](1_doceo_para_docentes/README.md)
+  * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
+  * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
+  * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
+  * [Proponer mejoras.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 * [Coordinación de actividades.](2_actividades/README.md)
   * [Consultar actividad](2_actividades/consultar-actividad.md)
   * [Editar actividad](2_actividades/editar_actividad.md)
