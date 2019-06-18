@@ -28,7 +28,7 @@
   * [Sesiones](2_actividades/sesiones.md)
   * [Repositorio](2_actividades/repositorio.md)
   * [Comentarios](2_actividades/comentarios.md)
-  * [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)
+* [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)
 
 ## Dirección y Coordinación de la Formación
 
@@ -39,20 +39,23 @@
   * [Proyecto de Formación de Centro.](3_plan_de_formacion/proyecto-de-formacion-de-centro.md)
   * [Valoración](3_plan_de_formacion/valoracion.md)
   * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
-* [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
-* [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades.md)
+* [Coordinación de actividades. COFO](3_plan_de_formacion/coordinacion-de-actividades.md)
+  * [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades/coordinacion-de-actividades.md)
   * [Consultar actividad](3_plan_de_formacion/coordinacion-de-actividades/consultar-actividad.md)
   * [Editar actividad](3_plan_de_formacion/coordinacion-de-actividades/editar-actividad.md)
   * [Gestión de participantes: Inscripción y admisión.](3_plan_de_formacion/coordinacion-de-actividades/gestion-de-participantes-inscripcion-y-admision.md)
   * [Sesiones](3_plan_de_formacion/coordinacion-de-actividades/sesiones.md)
   * [Repositorios](3_plan_de_formacion/coordinacion-de-actividades/repositorios.md)
   * [Comentarios](3_plan_de_formacion/coordinacion-de-actividades/comentarios.md)
-  * [Flujo de una actividad](3_plan_de_formacion/coordinacion-de-actividades/flujo-de-una-actividad.md)
+* [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
+* [Flujo de una actividad](3_plan_de_formacion/coordinacion-de-actividades/flujo-de-una-actividad.md)
 
 ## Asesorías
 
 * [Actividades.](actividades.md)
+  * [Buscar](actividades/buscar.md)
   * [Actividades asesoradas](actividades/actividades-asesoradas.md)
-  * [Coordinación de actividades.](actividades/coordinacion-de-actividades.md)
+  * [Coordinación de actividades. Asesor.](actividades/coordinacion-de-actividades.md)
+    * Coordinación de actividades.
 * [5 Informes](5_informes.md)
 
