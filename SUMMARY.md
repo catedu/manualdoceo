@@ -42,6 +42,12 @@
 * [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
 * [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades.md)
   * [Consultar actividad](3_plan_de_formacion/coordinacion-de-actividades/consultar-actividad.md)
+  * [Editar actividad](3_plan_de_formacion/coordinacion-de-actividades/editar-actividad.md)
+  * [Gestión de participantes: Inscripción y admisión.](3_plan_de_formacion/coordinacion-de-actividades/gestion-de-participantes-inscripcion-y-admision.md)
+  * [Sesiones](3_plan_de_formacion/coordinacion-de-actividades/sesiones.md)
+  * [Repositorios](3_plan_de_formacion/coordinacion-de-actividades/repositorios.md)
+  * [Comentarios](3_plan_de_formacion/coordinacion-de-actividades/comentarios.md)
+  * [Flujo de una actividad](3_plan_de_formacion/coordinacion-de-actividades/flujo-de-una-actividad.md)
 
 ## Asesorías
 
