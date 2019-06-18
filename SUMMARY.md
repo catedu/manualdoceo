@@ -17,10 +17,10 @@
   * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
   * [Proponer mejoras.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 * [Plan de Formación](1_doceo_para_docentes/plan-de-formacion.md)
-  * Actividades del Plan
+  * [Actividades del Plan](1_doceo_para_docentes/plan-de-formacion/actividades-del-plan.md)
   * Proyecto de Formación de Centro
-  * Valoración
-  * Actividades no getionadas por Doceo
+  * [Valoración](1_doceo_para_docentes/plan-de-formacion/valoracion.md)
+  * [Actividades no getionadas por Doceo](1_doceo_para_docentes/plan-de-formacion/actividades-no-getionadas-por-doceo.md)
 * [Coordinación de actividades.](2_actividades/README.md)
   * [Consultar actividad](2_actividades/consultar-actividad.md)
   * [Editar actividad](2_actividades/editar_actividad.md)
@@ -35,10 +35,17 @@
 * [Coordinación de la formación. COFOs y Dirección..](3_plan_de_formacion/README.md)
 * [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
 * [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
-* [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
-* [Valoración](3_plan_de_formacion/valoracion.md)
-* [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
+  * [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
+  * Proyecto de Formación de Centro.
+  * [Valoración](3_plan_de_formacion/valoracion.md)
+  * [Actividades no gestionadas por Doceo](3_plan_de_formacion/actividades-no-gestionadas-por-doceo.md)
+* [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
+* [Coordinación de actividades.](3_plan_de_formacion/coordinacion-de-actividades.md)
 
+## Asesorías
+
+
+---
 
 * [5 Informes](5_informes.md)
 
