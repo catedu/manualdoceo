@@ -64,8 +64,12 @@
     * [Repositorios](actividades/coordinacion-de-actividades/repositorios.md)
     * [Comentarios](actividades/coordinacion-de-actividades/comentarios.md)
     * [Ponencias](actividades/coordinacion-de-actividades/ponencias.md)
-    * Certificación
-    * Intercentros
-    * G. Económica
+    * [Certificación](actividades/coordinacion-de-actividades/certificacion.md)
+    * [Intercentros](actividades/coordinacion-de-actividades/intercentros.md)
+    * [G. Económica](actividades/coordinacion-de-actividades/g-economica.md)
+* [Planes de Formación](planes-de-formacion.md)
+  * Mi Plan de Formación
+  * Planes con actividades
+  * Todos los planes de Formación
 * [5 Informes](5_informes.md)
 
