@@ -48,7 +48,6 @@
   * [Repositorios](3_plan_de_formacion/coordinacion-de-actividades/repositorios.md)
   * [Comentarios](3_plan_de_formacion/coordinacion-de-actividades/comentarios.md)
 * [Nueva Actividad](3_plan_de_formacion/nueva-actividad.md)
-* [Flujo de una actividad](3_plan_de_formacion/coordinacion-de-actividades/flujo-de-una-actividad.md)
 
 ## Asesorías
 
