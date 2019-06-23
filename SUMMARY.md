@@ -11,11 +11,6 @@
 
 ## Doceo para Docentes y otros miembros de la Comunidad Educativa.
 
-* [Plan de Formación](1_doceo_para_docentes/plan-de-formacion.md)
-  * [Actividades del Plan](1_doceo_para_docentes/plan-de-formacion/actividades-del-plan.md)
-  * [Proyecto de Formación de Centro](1_doceo_para_docentes/plan-de-formacion/proyecto-de-formacion-de-centro.md)
-  * [Valoración](1_doceo_para_docentes/plan-de-formacion/valoracion.md)
-  * [Actividades no getionadas por Doceo](1_doceo_para_docentes/plan-de-formacion/actividades-no-getionadas-por-doceo.md)
 * [Participación en actividades: Información, inscripción y consulta.](1_doceo_para_docentes/README.md)
   * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
   * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
@@ -28,6 +23,11 @@
   * [Sesiones](2_actividades/sesiones.md)
   * [Repositorio](2_actividades/repositorio.md)
   * [Comentarios](2_actividades/comentarios.md)
+* [Plan de Formación](1_doceo_para_docentes/plan-de-formacion.md)
+  * [Actividades del Plan](1_doceo_para_docentes/plan-de-formacion/actividades-del-plan.md)
+  * [Proyecto de Formación de Centro](1_doceo_para_docentes/plan-de-formacion/proyecto-de-formacion-de-centro.md)
+  * [Valoración](1_doceo_para_docentes/plan-de-formacion/valoracion.md)
+  * [Actividades no gestionadas por Doceo](1_doceo_para_docentes/plan-de-formacion/actividades-no-getionadas-por-doceo.md)
 * [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)
 
 ## Dirección y Coordinación de la Formación
@@ -68,8 +68,8 @@
     * [Intercentros](actividades/coordinacion-de-actividades/intercentros.md)
     * [G. Económica](actividades/coordinacion-de-actividades/g-economica.md)
 * [Planes de Formación](planes-de-formacion.md)
-  * Mi Plan de Formación
-  * Planes con actividades
+  * [Mi Plan de Formación](planes-de-formacion/mi-plan-de-formacion.md)
+  * [Planes con actividades](planes-de-formacion/planes-con-actividades.md)
   * Todos los planes de Formación
 * [5 Informes](5_informes.md)
 

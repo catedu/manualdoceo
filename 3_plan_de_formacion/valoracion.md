@@ -1,7 +1,2 @@
-## Valoración
+{% include "git+https://github.com/catedu/manualdoceo.git/1_doceo_para_docentes/plan-de-formacion/valoracion.md" %}
 
-En este apartado se puede hacer una evaluación y valoración del Plan de Formación.
-
-Puede consultarse la valoración o bien editarse la valoración para añadir nuevos elementos:
-
-![](/assets/Selección_740.png)
