@@ -10,7 +10,7 @@ A lo largo de una actividad, son diferentes los agentes que intervienen para su 
 
 ### Actividad ABIERTA
 
-Una actividad comienza con el estado _ABIERTA_-
+Una actividad comienza con el estado _ABIERTA_.
 
 En este estado los Roles de Coordinación de Actividad, COFO y Asesoría tienen permiso para editarla, aunque la principal responsabilidad es de la coordinación de la actividad.
 
