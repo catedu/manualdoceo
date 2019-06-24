@@ -4,7 +4,7 @@ Puedes cambiar los diferentes elementos de los datos de la actividad de forma in
 
 ![](/assets/Peek 12-06-2019 12-41.gif)
 
-El botón de _cambiar modalidad_ permite transformar la modalidad de la actividad. También es posible cambiar el estado de la actividad pulsando _Cambiar estado_. (Ver Flujo de una actividad).
+El botón de _cambiar modalidad_ permite transformar la modalidad de la actividad. También es posible cambiar el estado de la actividad pulsando _Cambiar estado_. (Ver Estado de una actvidad).
 
 Es necesario añadir unos contenidos a la actividad. Esos contenidos son los que aparecerán en los certificados por lo que es importante que esta parte sea una buena enumeración de elllos.
 

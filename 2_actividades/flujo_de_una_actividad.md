@@ -1,4 +1,4 @@
-## Flujo de estados de una actividad {#flujo-de-una-actividad}
+## Estados de una actividad {#flujo-de-una-actividad}
 
 Una actividad pasa por diferentes estados desde que se comienza a diseñar hasta que algunos participantes terminan certificando.
 

@@ -4,10 +4,13 @@ Todos los docentes pueden acceder a consultar datos del Plan de Formación de tu
 
 Para acceder al Plan de Formación hay que pulsar la pestaña **_Plan de formación_**.
 
-Al pulsar en esa pestaña siendo COFO se accede a la consulta de "Datos de centro":
-![](/assets/Selección_735.png)
+Al pulsar en esa pestaña por primera vez en un año con rol de COFO Dirección se accede a la consulta de "Datos del plan", que aparecen vacios hasta Inicializar el Plan:
 
-Los datos del centro se cargan automáticamente. El COFO y el Director pueden editar datos del Plan de Formación pulsando el icono "Editar Plan de Formación".
+![](/assets/Selección_766.png)
+
+Al inicializar el plan se cargan los datos del centro y es posible ya editar el Plan de Formación y cambiar su Estado
+
+![](/assets/Selección_735.png)
 
 Estos son los detalles que se pueden editar:
 

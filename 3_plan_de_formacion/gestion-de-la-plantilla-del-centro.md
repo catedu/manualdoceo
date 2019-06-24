@@ -8,6 +8,6 @@ Al pulsar aparece la plantilla del centro:
 
 ![](/assets/Selección_734.png)
 
-En esa pantalla es posible añadir o quitar roles a los miembros de la plantilla o añadir un nuevo docente. Esto último se hace pulsando **_Nuevo Rol_** y añadiendo su NIF con Rol de _**Docente**_.
+En esa pantalla es posible añadir o quitar roles a los miembros de la plantilla o añadir un nuevo docente. Esto último se hace pulsando **_Nuevo Rol_** y añadiendo su NIF con Rol de _**Docente**_. Esto puede ser útil si el docente está recién incorporado y aún no aparece automáticamente. Ese rol asignado manualmente se puede eliminar 
 
 ![](/assets/Peek 14-06-2019 10-57.gif)

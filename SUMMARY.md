@@ -28,7 +28,8 @@
   * [Proyecto de Formación de Centro](1_doceo_para_docentes/plan-de-formacion/proyecto-de-formacion-de-centro.md)
   * [Valoración](1_doceo_para_docentes/plan-de-formacion/valoracion.md)
   * [Actividades no gestionadas por Doceo](1_doceo_para_docentes/plan-de-formacion/actividades-no-getionadas-por-doceo.md)
-* [Flujo de una actividad](2_actividades/flujo_de_una_actividad.md)
+* [Estado de una actividad](2_actividades/flujo_de_una_actividad.md)
+  * [Cambiar el estado de una actividad](2_actividades/flujo_de_una_actividad/cambiar-el-estado-de-una-actividad.md)
 
 ## Dirección y Coordinación de la Formación
 
@@ -69,6 +70,6 @@
 * [Planes de Formación](planes-de-formacion.md)
   * [Mi Plan de Formación](planes-de-formacion/mi-plan-de-formacion.md)
   * [Planes con actividades](planes-de-formacion/planes-con-actividades.md)
-  * Todos los planes de Formación
-* [5 Informes](5_informes.md)
+  * [Todos los planes de Formación](planes-de-formacion/todos-los-planes-de-formacion.md)
+* [Gestión](gestion.md)
 
