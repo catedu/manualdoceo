@@ -72,4 +72,9 @@
   * [Planes con actividades](planes-de-formacion/planes-con-actividades.md)
   * [Todos los planes de Formación](planes-de-formacion/todos-los-planes-de-formacion.md)
 * [Gestión](gestion.md)
+  * [Gestión de Centros](gestion/gestion-de-centros.md)
+  * [Asesorías](gestion/asesorias.md)
+  * [Gestión de Ponentes](gestion/gestion-de-ponentes.md)
+* [Informes](informes.md)
 
+## Dirección de CP
