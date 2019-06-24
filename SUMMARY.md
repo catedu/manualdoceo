@@ -78,3 +78,7 @@
 * [Informes](informes.md)
 
 ## Dirección de CP
+
+* [Manual para Dirección de CP](direccion-de-cp/manual-para-direccion-de-cp.md)
+* [Actividades de mi dirección.](direccion-de-cp/actividades-de-mi-direccion.md)
+
