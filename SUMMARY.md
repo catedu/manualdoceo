@@ -2,8 +2,8 @@
 
 ## Introducción
 
-* [Manual de Doceo 3.0](README.md)
-* [Doceo 3.0. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
+* [Manual del nuevo Doceo](README.md)
+* [Doceo. Gestión de la formación del profesorado](0_doceo_30_gestion_de_la_formacion_del_profesorado/README.md)
   * [¿Qué es?](0_doceo_30_gestion_de_la_formacion_del_profesorado/que_es.md)
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
   * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)

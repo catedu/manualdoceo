@@ -1,12 +1,12 @@
 ## Sesiones
 
-Pulsando en _**Sesiones**_ en el menú lateral, podemos acceder a la pantalla de _Sesiones de la actividad_.
+Pulsando en _**Sesiones**_ en el menú lateral, podemos acceder a la pantalla de **_Sesiones de la actividad_**.
 
 La utilidad de esta pantalla es doble.
 
-En primer lugar sirve para diseñar el calendario de sesiones de la actividad, número de sesiones, fechas y duración de cada una de ellas, etc.
+* Sirve para diseñar el calendario de sesiones de la actividad, número de sesiones, fechas y duración de cada una de ellas, etc.
 
-En segundo lugar sirve para gestionar la asistencia a cada una de las sesiones y para rellenar las actas de esas sesiones.
+* Sirve para gestionar la asistencia a cada una de las sesiones y para rellenar las actas de esas sesiones.
 
 Todas las asistencias y todas las actas deben estar rellenas antes de proceder a la finalización de la actividad.
 
@@ -20,7 +20,7 @@ La primera vez que accedemos a la pantalla de _Sesiones de la actividad_ nos apa
 
 No hay todavía ninguna sesión por lo que el sistema nos avisa de que el número de horas presenciales no coincide con el número de horas de las sesiones y nos informa de las horas que tenemos pendientes de añadir.
 
-Veamos como añadir o editar sesiones:
+Veamos en esta animación como añadir o editar sesiones:
 
 ![](/assets/Peek 13-06-2019 18-01.gif)
 
@@ -32,10 +32,10 @@ En esta misma pantalla se pueden descargar las hojas de firmas (PDF) previamente
 
 ![](/assets/Selección_732.png)
 
-Marcar los asistentes se hace pulsando en el icono correspondiente y rellenando las Checkbox:
+Marcar la asistencia a cada sesión se hace pulsando en el icono correspondiente ![](/assets/Selección_791.png) y rellenando las Checkbox:
 
 ![](/assets/Peek 13-06-2019 18-17.gif)
 
 El acta debe rellenarse en el hueco correspondiente y finalmente pulsar _Guardar_
 
-### Un coordinador de actividad dispone de 7 días para rellenar la asistencia y las actas.
+### La persona responsable de la coordinadoción de una actividad dispone de 7 días para rellenar la asistencia y las actas.

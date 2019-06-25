@@ -8,7 +8,7 @@ Para ello, basta pulsar sobre el nombre de la actividad.
 
 Y se accede a la página "Datos de la actividad" donde dispones de toda la información sobre ella para ver sus contenidos sus sesiones, etc.
 
-En esa página aparece un botón de inscripción si la actividad está en periodo de inscripción.
+En esa página aparece un botón de ![](/assets/Selección_788.png) si la actividad está en periodo de inscripción.
 
 ![](/assets/inscripcion2.png)
 
@@ -22,4 +22,4 @@ Tras pulsar "Inscribirse" debe salir el siguiente mensaje:
 
 ![](/assets/inscripcion4.png)
 
-Por último, los usuarios también pueden ser inscritos por el coordinador de actividad a partir de sus NIF/NIE y otros datos.
+Por último, los usuarios también pueden ser inscritos por la persona responsable de la coordinadoción de la actividad a partir de sus NIF/NIE y otros datos.

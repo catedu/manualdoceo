@@ -5,4 +5,4 @@ Departamento de Educación, Cultura y Deporte.
 
 ![](/assets/doceo.png)
 
-En él puedes encontrar información para el manejo de esta aplicación tanto como Docente, como Coordinador de actividad, como Coordinador de Formación o cualquier otro rol que puedas desempeñar en el sistema educativo.
+En él puedes encontrar información para el manejo de esta aplicación tanto desde el Rol de Docente, como información para desempeñar los roles de Coordinación de actividad, como Coordinación de Formación o cualquier otro rol que pueda desempeñarse en el sistema educativo.

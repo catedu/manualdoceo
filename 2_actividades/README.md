@@ -16,9 +16,8 @@ En esa página puede verse el listado y ordenar por Modalidad, Ámbito, Estado, 
 
 ![](/assets/Peek 30-01-2019 11-47.gif)
 
-Cabe destacar que aquí aparecen dos nuevos iconos en la columna derecha, uno para acceder a _**Consultar actividad**_ y otro para _**Editar Actividad**_.
+Cabe destacar que aquí aparecen dos nuevos iconos en la columna derecha, uno para acceder a _**Consultar actividad**_ y otro para _**Editar Actividad**_. ![](/assets/consultareditar.png)
 
 ![](/assets/Selección_723.png)
 
-Pulsando sobre _Consultar actividad_ en una actividad que uno coordina, puede accederse a ese menú.
-
+Pulsando sobre _Consultar actividad_ en una actividad que uno coordina, puede accederse a la pantalla **_Consultar actividad_** descrita en el apartado siguiente.
