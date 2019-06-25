@@ -81,4 +81,6 @@
 
 * [Manual para Dirección de CP](direccion-de-cp/manual-para-direccion-de-cp.md)
 * [Actividades de mi dirección.](direccion-de-cp/actividades-de-mi-direccion.md)
+* [Gestión de Centros del CP y Asesorías](direccion-de-cp/gestion-de-asesorias.md)
+* [El Rol de Dirección en las actividades](direccion-de-cp/el-rol-de-direccion-en-las-actividades.md)
 
