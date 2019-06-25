@@ -8,6 +8,7 @@
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
   * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
   * [Roles en la formación](0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion.md)
+* [Propuestas de mejoras y reportes de error.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 
 ## Doceo para Docentes y otros miembros de la Comunidad Educativa.
 
@@ -15,7 +16,6 @@
   * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
   * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
   * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
-  * [Proponer mejoras.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 * [Coordinación de actividades.](2_actividades/README.md)
   * [Consultar actividad](2_actividades/consultar-actividad.md)
   * [Editar actividad](2_actividades/editar_actividad.md)
