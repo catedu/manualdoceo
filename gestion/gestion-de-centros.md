@@ -6,7 +6,7 @@ Al seleccionar gestión de centros se accede a esta pantalla:
 
 Por defecto entra en la opción TODOS del menú lateral. Permite seleccionar cualquier centro educativo existente en Doceo. 
 
-Es posible realizar una búsqueda por nombre para poder seleccionar rápìdamente entre un número tan elevado de centros-
+Es posible realizar una búsqueda por nombre para poder seleccionar rápidamente entre un número tan elevado de centros.
 
 Las otras opciones son:
 
