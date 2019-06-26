@@ -14,5 +14,6 @@ Este manual contiene enlaces e información que, como toda la información en la
 
 Es posible proponer también directamente mejoras en este manual pulsando el botón "Edit in Github" como se indica en este video:
 
-https://youtu.be/JXamK7Lbp4I
 
+
+{% youtube %}https://youtu.be/JXamK7Lbp4I?t=55 {% endyoutube %}

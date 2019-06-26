@@ -1,14 +1,14 @@
 # Actividades
 
-Un asesor interviene en las actividades de varias formas diferentes.
+La Asesoría de un Centro del Profesorado interviene en las actividades de formas diferentes.
 
 En primer lugar puede asesorar una actividad coordinada por otro docente, tal es el caso de las actividades de Plan de Formación de los centros.
 
 Puede también coordinar actividades creadas por él o por otro miembro de la red, en ese caso coordina y asesora a la vez.
 
-Por último un asesor puede ser participante de una actividad formativa, tanto como asistente como como ponente.
+Por último, puede ser participante de una actividad formativa, tanto como asistente como como ponente.
 
-El menú _**Actividades**_  del asesor consta de 4 pestañas.
+El menú _**Actividades**_  del rol Asesoría consta de 4 pestañas.
 
 ![](/assets/Selección_752.png)
 

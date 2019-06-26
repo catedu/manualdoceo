@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "",
-        "author": "",
+        "title": "Manual de DOCEO",
+        "author": "José Cariñena Burbano ",
         "collaborators": [
             { "name": "", "edited": "" },
             { "name": "", "edited": "" }

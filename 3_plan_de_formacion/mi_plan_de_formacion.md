@@ -16,8 +16,8 @@ Estos son los detalles que se pueden editar:
 
 ![](/assets/Selección_736.png)
 
-En la parte superior de la pantalla de edición del Plan de Formación aparece un desplegable para poder cambiar el estado del plan de Abierto a Cerrado para poder avisar al asesor para que lo revise.
+En la parte superior de la pantalla de edición del Plan de Formación aparece un desplegable para poder cambiar el estado del plan de Abierto a Cerrado para poder avisar al asesor para que lo reciba.
 
 ![](/assets/Peek 17-06-2019 12-59.gif)
 
-Asegúrate de haber creado todas las actividades que van a formar parte del plan antes de cerrarlo. Si el plan está cerrado necesitarás que el asesor lo reabra para poder editarlo y crear una actividad.
+Asegúrate de haber creado todas las actividades que van a formar parte del plan antes de cerrarlo. Si el plan está cerrado necesitarás que el asesor lo reabra para poder editarlo y poder crear así una nueva actividad.

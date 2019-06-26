@@ -38,4 +38,4 @@ Marcar la asistencia a cada sesión se hace pulsando en el icono correspondiente
 
 El acta debe rellenarse en el hueco correspondiente y finalmente pulsar _Guardar_
 
-### La persona responsable de la coordinadoción de una actividad dispone de 7 días para rellenar la asistencia y las actas.
+### La persona responsable de la coordinación de una actividad dispone de 7 días para rellenar la asistencia y las actas.

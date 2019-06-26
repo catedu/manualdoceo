@@ -1,6 +1,6 @@
 ## Gestión de la plantilla del centro.
 
-El COFO o el director pueden gestionar la plantilla del centro añadiendo Docentes a la plantilla o asignando Roles (por ejemplo, nombrando un nuevo COFO o un nuevo COFOTac o la coordinación de la convivencia).
+El Rol de COFO o el de dirección pueden gestionar la plantilla del centro añadiendo Docentes a la plantilla o asignando Roles (por ejemplo, nombrando un nuevo COFO o un nuevo COFOTac o la coordinación de la convivencia).
 
 Todo ello se hace en la pestaña _**Gestión**_
 
