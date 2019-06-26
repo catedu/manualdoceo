@@ -1,9 +1,5 @@
 ## Roles en la formación {#roles-en-la-formaci-n}
 
-<!---
-De COFO para arriba
--->
-
 Doceo recoge diferentes posibles roles para cada usuario en función del papel que desempeñe ese docente en la formación del profesorado.
 
 En concreto los posibles roles son:
