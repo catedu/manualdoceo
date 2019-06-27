@@ -4,7 +4,7 @@ Una actividad pasa por diferentes estados desde que se comienza a diseñar hasta
 
 Los diferentes estados se muestran en la siguiente imagen:
 
-![Flujo de estados de una actividad Formativa](/assets/FLUJO DE ESTADOS.png)
+![Flujo de estados de una actividad Formativa](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/FLUJO DE ESTADOS.png)
 
 A lo largo de una actividad, son diferentes los agentes que intervienen para su desarrollo. Un usuario podrá o no cambiar el estado de una actividad en función de su Rol.
 

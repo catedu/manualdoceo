@@ -3,7 +3,7 @@
 Para visualizar el resumen de actividades de mi dirección selecciono ** Actividades &rArr; Dirección **:
 
 
-![](/assets/actividadesdireccion.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/actividadesdireccion.png)
 
 Aparece un listado con las actividades asociadas a mi Dirección del CP es decir:
 
@@ -13,5 +13,5 @@ Aparece un listado con las actividades asociadas a mi Dirección del CP es decir
 
 Las actividades aparecen listadas y pueden ordenarse por título, por modalidad, por ámbito, por estado, etc.
 
-![](/assets/Selección_780.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_780.png)
 

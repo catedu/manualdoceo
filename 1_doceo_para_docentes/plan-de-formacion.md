@@ -4,7 +4,7 @@ Todos los docentes pueden acceder a consultar datos del Plan de Formación de tu
 
 Para acceder al Plan de Formación hay que pulsar la pestaña **_Plan de formación_**.
 
-![](/assets/pf1.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/pf1.png)
 
 Aparecen inicialmente los **_Datos del Plan_**
 

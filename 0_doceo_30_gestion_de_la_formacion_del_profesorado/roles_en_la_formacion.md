@@ -26,8 +26,8 @@ Sin embargo en cada momento Para consultar tu Rol y para cambiar de Rol en la p√
 
 Se accede pulsando en este icono:
 
-![](/assets/cambiarrol.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/cambiarrol.png)
 
 Y luego se puede cambiar de rol activo y configurar el rol preferente.
 
-![](/assets/cambiarrolactivo.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/cambiarrolactivo.png)

@@ -6,4 +6,4 @@ Para ello es necesario seleccionar en el menú lateral _**G.Económica**_:
 
 Pulsando el icono de editar, se pueden modificar algunos campos, otros son calculados automáticamente:
 
-![](/assets/Peek 21-06-2019 11-48.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 21-06-2019 11-48.gif)

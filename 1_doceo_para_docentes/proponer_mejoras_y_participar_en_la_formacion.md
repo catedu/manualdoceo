@@ -4,9 +4,9 @@ A lo largo del uso de la aplicación Doceo es posible que surjan propuestas de m
 
 En ese caso, no dudes en contactar con nosotros [poniendo un Ticket](http://soporte.catedu.es/open.php) al departamento DOCEO.
 
-![](/assets/ticket.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/ticket.png)
 
-![](/assets/doceoticket2.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/doceoticket2.png)
 
 ---
 

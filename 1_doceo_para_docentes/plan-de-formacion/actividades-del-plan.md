@@ -4,9 +4,9 @@ Pulsando en la pestaña **_Actividades del Plan_** se accede a todas las activid
 
 En la pantalla se resume su Modalidad, Ámbito, horas, etc.
 
-![](/assets/Selección_737.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_737.png)
 
-Cabe destacar que en la parte derecha de la tabla dispone de los iconos para acceder a la ficha de cada actividad o a editar cada actividad.![](/assets/Selección_738.png)
+Cabe destacar que en la parte derecha de la tabla dispone de los iconos para acceder a la ficha de cada actividad o a editar cada actividad.![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_738.png)
 
 Un usuario con perfil docente no tiene permisos para editar la actividad.
 

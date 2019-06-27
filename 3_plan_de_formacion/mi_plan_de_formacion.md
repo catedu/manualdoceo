@@ -6,18 +6,18 @@ Para acceder al Plan de Formación hay que pulsar la pestaña **_Plan de formaci
 
 Al pulsar en esa pestaña por primera vez en un año con rol de COFO Dirección se accede a la consulta de "Datos del plan", que aparecen vacios hasta Inicializar el Plan:
 
-![](/assets/Selección_766.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_766.png)
 
 Al inicializar el plan se cargan los datos del centro y es posible ya editar el Plan de Formación y cambiar su Estado
 
-![](/assets/Selección_735.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_735.png)
 
 Estos son los detalles que se pueden editar:
 
-![](/assets/Selección_736.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_736.png)
 
 En la parte superior de la pantalla de edición del Plan de Formación aparece un desplegable para poder cambiar el estado del plan de Abierto a Cerrado para poder avisar al asesor para que lo reciba.
 
-![](/assets/Peek 17-06-2019 12-59.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 17-06-2019 12-59.gif)
 
 Asegúrate de haber creado todas las actividades que van a formar parte del plan antes de cerrarlo. Si el plan está cerrado necesitarás que el asesor lo reabra para poder editarlo y poder crear así una nueva actividad.

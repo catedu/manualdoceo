@@ -10,6 +10,6 @@ La certificación de un PFC es la suma de las horas de todas las actividades (pr
 
 Tanto Docentes como COFOs o Dirección pueden acceder a la información del Proyecto de Formación de Centro pulsando la pestaña **_Proyecto de Formación de Centro_**.
 
-![](/assets/Selección_744bpng.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_744bpng.png)
 
 Una vez ahí, es posible tanto ver los detalles de las actividades como editarlas en caso de disponer de permisos.
