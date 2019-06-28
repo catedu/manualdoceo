@@ -84,3 +84,6 @@
 * [Gestión de Centros del CP y Asesorías](direccion-de-cp/gestion-de-asesorias.md)
 * [El Rol de Dirección en las actividades](direccion-de-cp/el-rol-de-direccion-en-las-actividades.md)
 
+## Créditos
+
+* [Créditos](creditos.md)
