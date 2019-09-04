@@ -12,7 +12,8 @@ En concreto los posibles roles son:
 * Dirección de Centro Educativo
 * Secretaría de Centro Educativo
 * Jefatura de Estudios de Centro Educativo
-* Coordinador de Formación (Tecnologías del Aprendizaje y el Conocimiento)
+* Coordinación de la Formación (COFO)
+* Coordinación de la Formación en las Tecnologías del Aprendizaje y el Conocimiento (CofoTap)
 * Coordinación de convivencia
 * Coordinación de igualdad
 * Docente
