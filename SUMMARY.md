@@ -34,6 +34,7 @@
 ## Dirección y Coordinación de la Formación
 
 * [Coordinación de la formación. COFOs y Dirección..](3_plan_de_formacion/README.md)
+* [Primeros pasos.](3_plan_de_formacion/primeros-pasos.md)
 * [Gestión de la plantilla del centro.](3_plan_de_formacion/gestion-de-la-plantilla-del-centro.md)
 * [Plan de formación](3_plan_de_formacion/mi_plan_de_formacion.md)
   * [Actividades del Plan](3_plan_de_formacion/actividades-del-plan.md)
@@ -87,3 +88,4 @@
 ## Créditos
 
 * [Créditos](creditos.md)
+
