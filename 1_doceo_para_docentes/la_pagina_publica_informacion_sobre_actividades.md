@@ -8,7 +8,7 @@
 
 ### La página pública sin loguin. 
 
-En primer lugar, existe una página pública para usuarios no logueados que ofrece todas las actividades visibles para todos los miembros de la Comunidad Educativa excepto las de los planes de formaciónde los centros.
+En primer lugar, existe una página pública para usuarios no logueados que ofrece todas las actividades visibles para todos los miembros de la Comunidad Educativa excepto las de los planes de formación de los centros.
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_715.png)
 
