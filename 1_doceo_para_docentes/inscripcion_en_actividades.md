@@ -22,4 +22,4 @@ Tras pulsar "Inscribirse" debe salir el siguiente mensaje:
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/inscripcion4.png)
 
-Por último, los usuarios también pueden ser inscritos por la persona responsable de la coordinadoción de la actividad a partir de sus NIF/NIE y otros datos.
+Por último, los usuarios también pueden ser inscritos por la persona responsable de la coordinación de la actividad a partir de sus NIF/NIE y otros datos.
