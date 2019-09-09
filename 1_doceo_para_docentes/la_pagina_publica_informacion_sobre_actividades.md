@@ -1,6 +1,6 @@
 ## La página pública: Información sobre actividades. {#la-p-gina-p-blica-informaci-n-sobre-actividades}
 
-[La página pública de DOCEO](http://preaplicaciones.aragon.es/epgfp/portada) es el tablón de anuncios donde se ofrecen las actividades **en proceso de inscripción**. Se accede a ella directamente al entrar en DOCEO o bien pulsando el icono de Home.
+[La página pública de DOCEO](https://aplicaciones.aragon.es/epgfp/portada) es el tablón de anuncios donde se ofrecen las actividades **en proceso de inscripción**. Se accede a ella directamente al entrar en DOCEO o bien pulsando el icono de Home.
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/doceopaginapublica.png)
 
