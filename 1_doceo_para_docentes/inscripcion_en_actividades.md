@@ -10,7 +10,7 @@ Para ello, basta pulsar sobre el nombre de la actividad.
 
 Y se accede a la página "Datos de la actividad" donde dispones de toda la información sobre ella para ver sus contenidos sus sesiones, etc.
 
-En esa página aparece un botón de ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_788.png) si la actividad está en periodo de inscripción.
+En esa página aparece un botón de ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_788.png) si la actividad está en periodo de inscripción.
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/inscripcion2.png)
 

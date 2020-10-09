@@ -2,7 +2,7 @@
 
 Al seleccionar gestión de centros se accede a esta pantalla:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_771.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_771.png)
 
 Por defecto entra en la opción TODOS del menú lateral. Permite seleccionar cualquier centro educativo existente en Doceo. 
 

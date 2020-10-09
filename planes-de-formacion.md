@@ -6,7 +6,7 @@ Un desplegable nos permite elegir centro y seleccionar ese plan de formación. E
 
 Al pulsar con Rol Asesoría la pestala **_Plan de Formación_** puede ver un listado de los Planes de Formación de los centros para los que es asesoría de referencia:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_767.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_767.png)
 
 En la imagen puede observarse que este asesor tiene un centro con el Plan CERRADO (en rojo) otro centro con el Plan Abierto y otros dos centros que no lo han inicializado aún.
 

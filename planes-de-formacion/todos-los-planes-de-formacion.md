@@ -2,7 +2,7 @@
 
 En esta pantalla la Asesoría puede consultar todos los planes de formación inciados en Aragón.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_769.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_769.png)
 
 Al ser un número grande, es posible buscar por el nombre del centro:
 

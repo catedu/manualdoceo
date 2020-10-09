@@ -2,7 +2,7 @@
 
 El pulsar en **_Gestión de Ponentes_** aparece la siguiente pantalla:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_774.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_774.png)
 
 En ella aparece el Listado de los Ponentes que ya están dados de alta en Doceo, con su nombre, su correo electrónico para contactar y si Centro de trabajo.
 

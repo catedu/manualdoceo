@@ -3,9 +3,9 @@
 Para acceder al listado de las actividades asesoradas hay que marcar la pestaña **_Asesoría_**.
 
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_749.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_749.png)
 
-En la columna de la derecha aparecen los iconos para acceder a la consulta de la actividad o a la edición: ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_743.png)
+En la columna de la derecha aparecen los iconos para acceder a la consulta de la actividad o a la edición: ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_743.png)
 
 Las actividades vienen representadas en diferentes colores en función de su estado, particularmente las actividades en las que la pelota está en el tejado de la asesoría y debe dar el siguiente paso:
 
@@ -16,6 +16,6 @@ En cualquier caso, es competencia de la asesoría rellenar algunos datos a los q
 
 Se trata de estos cuatro elementos del menú lateral de la edición de actividad:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_751.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_751.png)
 
 Es decir, la asesoría tiene acceso a la edición de todos los elementos de la actividad que se muestran en la imagen pero estos cuatro últimos, _Ponencias, certificación, Intercentros_ y _Gestión económica_ son aquellos a los que ni el coordinador de actividad ni el COFO tienen acceso.

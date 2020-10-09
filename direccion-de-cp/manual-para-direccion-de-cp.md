@@ -14,6 +14,6 @@ En concreto las principales diferencias son:
 
 * En la sección de ** Editar actividad ** la dirección del CP puede acceder a nuevas páginas a través del menú lateral, concretamente **_Asesorías_** y _**Centros de Profesorado**_
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_777.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_777.png)
 
 Además en otras páginas la dirección del CP dispone de mayores permisos que el rol de Asesoría, por ejemplo, para cambiar estados de una actividad.
