@@ -1,1 +1,0 @@
-# 4 Gestión {#4-gesti-n}

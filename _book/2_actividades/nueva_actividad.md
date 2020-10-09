@@ -1,1 +1,0 @@
-## Nueva actividad {#nueva-actividad}
