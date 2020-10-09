@@ -14,3 +14,9 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN_GITBOOK_ACTION }}
           source_dir: .
+          gitbook_pdf: true
+          gitbook_pdf_name: "manual-doceo"
+          gitbook_epub: true
+          gitbook_epub_name: "manual-doceo"
+          gitbook_mobi: true
+          gitbook_mobi_name: "manual-doceo"

@@ -10,13 +10,13 @@
 
 En primer lugar, existe una página pública para usuarios no logueados que ofrece todas las actividades visibles para todos los miembros de la Comunidad Educativa excepto las de los planes de formación de los centros.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_715.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_715.png)
 
 No es posible inscribirse sin loguin en muchas de las actividades listadas, sólo en las que estén pensadas para ello.
  
 ### La página pública con usuario. 
 
-Pulsando ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_787.png) o entrando a través de dicha plataforma con usuario y contraseña, se mostrarán en la página pública las actividades en periodo de inscripción **asociadas a tu perfil**, es decir, las actividades de tu Plan de Formación de Centro, las organizadas por tu Centro del Profesorado o las actividades provinciales de tu provincia, es decir, en función del ámbito de las actividades y el perfil aparecerán o no.
+Pulsando ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_787.png) o entrando a través de dicha plataforma con usuario y contraseña, se mostrarán en la página pública las actividades en periodo de inscripción **asociadas a tu perfil**, es decir, las actividades de tu Plan de Formación de Centro, las organizadas por tu Centro del Profesorado o las actividades provinciales de tu provincia, es decir, en función del ámbito de las actividades y el perfil aparecerán o no.
 
 
 

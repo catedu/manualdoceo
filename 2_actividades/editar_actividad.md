@@ -2,7 +2,7 @@
 
 Puedes cambiar los diferentes elementos de los datos de la actividad de forma intuitiva en la pantalla "Editar actividad"
 
-![Editar actividad](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_789.png)
+![Editar actividad](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_789.png)
 
 En esta animación puede verse como modificar algunos apartados de la actividad.
 
@@ -10,7 +10,7 @@ En esta animación puede verse como modificar algunos apartados de la actividad.
 
 En la barra superior hay varios botones que permiten diferentes funcionalidades:
 
-![Botones superiores en editar actividad](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_790.png)
+![Botones superiores en editar actividad](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_790.png)
 
 El botón de **_Modalidad_** permite transformar la modalidad de la actividad. También es posible cambiar el estado de la actividad pulsando **_Estado_**. (Ver [Estado de una actvidad](https://catedu.gitbooks.io/manual-de-doceo-3-0/content/2_actividades/flujo_de_una_actividad.html)).
 
@@ -22,7 +22,7 @@ No conviene olvidarse de _Guardar_ para que no se pierdan los cambios.
 
 El tamaño del menú ACTIVIDAD depende del rol del usuario, en el caso del rol Docente que ejerce coordinación de actividad, el menú es el siguiente:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_726.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_726.png)
 
 
 

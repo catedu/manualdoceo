@@ -4,5 +4,5 @@ Los comentarios son el mecanismo a través del cual pueden coordinarse la asesor
 
 Para acceder a los comentarios hay que pulsar en **_Comentarios**_ en el menú lateral y posteriormente escribir el comentario pulsando _**Nuevo comentario**_
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_733.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_733.png)
 

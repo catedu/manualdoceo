@@ -13,5 +13,5 @@ Aparece un listado con las actividades asociadas a mi Dirección del CP es decir
 
 Las actividades aparecen listadas y pueden ordenarse por título, por modalidad, por ámbito, por estado, etc.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_780.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_780.png)
 

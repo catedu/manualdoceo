@@ -16,7 +16,7 @@ Este es un proceso que debe hacerse antes de cambiar la actividad al estado "Dis
 
 La primera vez que accedemos a la pantalla de _Sesiones de la actividad_ nos aparecerá algo similar esto:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_731.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_731.png)
 
 No hay todavía ninguna sesión por lo que el sistema nos avisa de que el número de horas presenciales no coincide con el número de horas de las sesiones y nos informa de las horas que tenemos pendientes de añadir.
 
@@ -30,9 +30,9 @@ Las sesiones puede crearse todas de vez pulsando + y pueden editarse por si hubi
 
 En esta misma pantalla se pueden descargar las hojas de firmas (PDF) previamente a la sesión y pasar la asistencia y las actas desde la hora de inicio de sesión con un plazo de siete días.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_732.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_732.png)
 
-Marcar la asistencia a cada sesión se hace pulsando en el icono correspondiente ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Seleccion_791.png) y rellenando las Checkbox:
+Marcar la asistencia a cada sesión se hace pulsando en el icono correspondiente ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_791.png) y rellenando las Checkbox:
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 13-06-2019 18-17.gif)
 
