@@ -1,1 +1,2 @@
+
 {% include "git+https://github.com/catedu/manualdoceo.git/2_actividades/editar_actividad/gestion-de-participantes-inscripcion-y-admision.md" %}
