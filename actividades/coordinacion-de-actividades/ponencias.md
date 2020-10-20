@@ -4,11 +4,11 @@ Existe una Base de datos de ponentes. Todos los ponentes que han dado alguna pon
 
 Al entrar en la pantalla _**Ponencias**_ puede elegirse un ponente desplegando todos los que hay o bien escribiendo parte del nombre o del DNI para que se haga una búsqueda:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_756.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-756.png)
 
 Si el ponente es nuevo como ponente en Doceo, hay que añadirlo pulsando **_Nuevo Ponente_**
 
-Se pueden añadir más ponencias a la actividad pulsando el icono ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_757.png).
+Se pueden añadir más ponencias a la actividad pulsando el icono ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-757.png).
 
 ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-21-06-2019-10-17.gif)
 

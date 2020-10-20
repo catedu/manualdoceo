@@ -11,8 +11,8 @@ En concreto son:
 
 * La asignación de asesorías a actividades. Esta se puede hacer en la pantalla de [Actividades de mi Dirección](https://catedu.gitbooks.io/manual-de-doceo-3-0/content/direccion-de-cp/actividades-de-mi-direccion.html) pero también en _**Editar Actividad**_ seleccionando en el menú lateral **_Asesorías_**.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_784.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-784.png)
 
 * Por último, un Director de CP puede asignar una actividad a otro CP, como sucede por ejemplo con algunas actividades gestionadas por el CIFPA. Para ello debe entrar en _**Editar Actividad**_ seleccionando en el menú lateral **_Centros de Profesorado_**.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_785.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-785.png)

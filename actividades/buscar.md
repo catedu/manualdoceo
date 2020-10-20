@@ -4,9 +4,9 @@ Un motor de búsqueda es necesario para poder encontrar una actividad entre un n
 
 Al pulsar en _**Buscar**_ se accede a un listado con todas las actividades en DOCEO donde es posible seleccionar parámetros de búsqueda.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_753.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-753.png)
 
-Para ello solo hay que rellenar alguno de los campos y pulsar ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_754.png).
+Para ello solo hay que rellenar alguno de los campos y pulsar ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-754.png).
 
 Esto es un ejemplo:
 

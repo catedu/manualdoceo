@@ -26,7 +26,7 @@ Ni los criterios de inscripción ni las opciones de inscripción son obligatorio
 
 Puedes acceder a las inscripciones en la actividad en el menú lateral:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_727.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-727.png)
 
 Una vez ahí te aparecerá una lista con los inscritos en la actividad.
 
@@ -34,7 +34,7 @@ Una vez ahí te aparecerá una lista con los inscritos en la actividad.
 
 En esa pantalla, se puede seleccionar _**Inscripción manual**_ y la persona responsable de la coordinación de actividad puede así inscribir de forma manual participantes:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_729.png)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-729.png)
 
 Cabe destacar que si el NIF introducido ya corresponde a un usuario de paddoc, no es necesario llenar el resto de datos pues DOCEO los rellenará automáticamente. 
 
