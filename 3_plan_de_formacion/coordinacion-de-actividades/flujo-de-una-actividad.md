@@ -1,2 +1,3 @@
+# contenido enlazado
 
 {% include "git+https://github.com/catedu/manualdoceo.git/2_actividades/flujo_de_una_actividad.md" %}
