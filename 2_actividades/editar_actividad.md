@@ -6,7 +6,7 @@ Puedes cambiar los diferentes elementos de los datos de la actividad de forma in
 
 En esta animación puede verse como modificar algunos apartados de la actividad.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 12-06-2019 12-41.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-12-06-2019-12-41.gif)
 
 En la barra superior hay varios botones que permiten diferentes funcionalidades:
 

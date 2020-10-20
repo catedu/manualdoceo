@@ -11,4 +11,4 @@ El COFO puede añadir actividades y editar las ya añadidas, para ello basta pul
 
 Una vez ahí se pueden añadir nuevas actividades pulsando el icono ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_742.png)  o bien consultar los detalle o editarlas pulsando los iconos ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_743.png).
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 18-06-2019 09-26.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-18-06-2019-09-26.gif)

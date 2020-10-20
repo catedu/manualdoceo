@@ -10,4 +10,4 @@ Para ello solo hay que rellenar alguno de los campos y pulsar ![](https://raw.gi
 
 Esto es un ejemplo:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 18-06-2019 18-53.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-18-06-2019-18-53.gif)

@@ -10,7 +10,7 @@ Al pulsar aparece la plantilla del centro:
 
 En esa pantalla es posible añadir o quitar roles a los miembros de la plantilla o **añadir un nuevo docente**. Esto último se hace pulsando **_Nuevo Rol_** y añadiendo su NIF con Rol de _**Docente**_. Esto puede ser útil si el docente está recién incorporado y aún no aparece automáticamente. Ese rol asignado manualmente se puede eliminar.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 14-06-2019 10-57.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-14-06-2019-10-57.gif)
 
 En ocasiones una de las filas de la plantilla aparece con un NIF pero no aparece el nombre del docente o su correo electrónico. Esto es debido a que o bien no tiene perfil en PADDOC o bien este es incompleto. Es el docente el que tiene que gestionar su alta en PADDOC.
 

@@ -22,11 +22,11 @@ No hay todavía ninguna sesión por lo que el sistema nos avisa de que el númer
 
 Veamos como añadir o editar sesiones:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 13-06-2019 18-01.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-13-06-2019-18-01.gif)
 
 Las sesiones puede crearse todas de vez pulsando + y pueden editarse por si hubiera movimientos de fechas o cambios en la planificación:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 13-06-2019 18-05.gif).
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-13-06-2019-18-05.gif).
 
 En esta misma pantalla se pueden descargar las hojas de firmas (PDF) previamente a la sesión y pasar la asistencia y las actas desde la hora de inicio de sesión con un plazo de siete días.
 
@@ -34,7 +34,7 @@ En esta misma pantalla se pueden descargar las hojas de firmas (PDF) previamente
 
 Marcar los asistentes se hace pulsando en el icono correspondiente y rellenando las Checkbox:
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 13-06-2019 18-17.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-13-06-2019-18-17.gif)
 
 El acta debe rellenarse en el hueco correspondiente y finalmente pulsar _Guardar_
 

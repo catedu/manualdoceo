@@ -10,6 +10,6 @@ Si el ponente es nuevo como ponente en Doceo, hay que añadirlo pulsando **_Nuev
 
 Se pueden añadir más ponencias a la actividad pulsando el icono ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Selección_757.png).
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 21-06-2019 10-17.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-21-06-2019-10-17.gif)
 
 Al crear un nuevo ponente no siempre es necesario añadir todos sus datos. Si ya existe como usuario en Paddoc basta con añadir su NIF y el resto de campos los tomará de su perfil de Paddoc.

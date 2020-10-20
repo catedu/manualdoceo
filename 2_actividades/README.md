@@ -14,7 +14,7 @@ Se puede acceder a la lista de actividades que uno coordina pulsando **_Activida
 
 En esa página puede verse el listado y ordenar por Modalidad, Ámbito, Estado, etc.
 
-![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/Peek 30-01-2019 11-47.gif)
+![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/peek-30-01-2019-11-47.gif)
 
 Cabe destacar que aquí aparecen dos nuevos iconos en la columna derecha, uno para acceder a _**Consultar actividad**_ y otro para _**Editar Actividad**_. ![](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/consultareditar.png)
 
