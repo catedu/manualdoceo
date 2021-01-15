@@ -12,7 +12,7 @@ En la barra superior hay varios botones que permiten diferentes funcionalidades:
 
 ![Botones superiores en editar actividad](https://raw.githubusercontent.com/catedu/manualdoceo/master/assets/seleccion-790.png)
 
-El botón de **_Modalidad_** permite transformar la modalidad de la actividad. También es posible cambiar el estado de la actividad pulsando **_Estado_**. (Ver [Estado de una actvidad](https://catedu.gitbooks.io/manual-de-doceo-3-0/content/2_actividades/flujo_de_una_actividad.html)).
+El botón de **_Modalidad_** permite transformar la modalidad de la actividad. También es posible cambiar el estado de la actividad pulsando **_Estado_**. (Ver [Estado de una actvidad](https://catedu.github.io/manualdoceo/2_actividades/flujo_de_una_actividad.html)).
 
 Es necesario añadir unos contenidos a la actividad. Esos contenidos son los que aparecerán en los certificados por lo que es importante que esta parte sea una buena enumeración de ellos que describa la naturaleza de la actividad.
 
